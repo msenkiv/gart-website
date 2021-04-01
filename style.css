@@ -1,0 +1,10 @@
+@import 'css/home.css';
+
+
+
+body {
+    margin: -0.1px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    opacity: 1;
+    font-size: 62.5% !important;
+}
